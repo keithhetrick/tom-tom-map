@@ -1,10 +1,13 @@
 # Tom-Tom-Map
 
-### Built with React, TomTom API, TomTom Map SDK, & TomTom Routing API. Used to calculate the shortest distance bewteen dropoff points.
+### Built with React, TomTom API, TomTom Map SDK, TomTom Routing API & deployed to AWS. 
+Used to calculate the shortest distance bewteen dropoff points, with traffic incidents on the road being taken into account.
 
 [Demo](http://18.216.233.189/)
 
 <img width="1281" alt="Screen Shot 2022-10-16 at 1 16 56 PM" src="https://user-images.githubusercontent.com/104343338/196051404-de9827b0-c503-4228-8d68-9592b0bf8eed.png">
+
+<img width="1280" alt="Screen Shot 2022-10-16 at 5 17 19 PM" src="https://user-images.githubusercontent.com/104343338/196060977-2ba76a0c-64a5-4db0-a6f6-e907124608ad.png">
 
 # Getting Started with Create React App
 
